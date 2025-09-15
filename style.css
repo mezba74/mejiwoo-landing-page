@@ -64,3 +64,15 @@
     align-items: center;
     text-align: center;
 }
+.season{
+    padding: 60px 40px;
+    background: white; 
+}
+.title{
+    text-align: center;
+}
+.season-grid{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
