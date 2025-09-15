@@ -23,13 +23,15 @@
 
 }
 .menu li a{
+    display: inline-block;
     text-decoration: none;
     font-size: 17px;
     color: black;
 }
 .menu li a:hover{
-    /* background-color: #a2d2ff; */
+
     border: 2px solid #a2d2ff;
+    transition: 0.3s;
 }
 .hero{
     position: relative;
